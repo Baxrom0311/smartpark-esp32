@@ -1,0 +1,12 @@
+# PlatformIO build artefacts
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Local secrets — only the example template is checked in
+include/config.h
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
